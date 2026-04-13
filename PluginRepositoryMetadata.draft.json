@@ -1,0 +1,13 @@
+{
+  "Name": "Hawku Scroll",
+  "Owner": "guydudemanperson1",
+  "Description": "Adds a hawku-style scroll binding for OpenTabletDriver. Bind it to a pen button, then hold or toggle the button and move the pen to scroll, with optional cursor freezing.",
+  "PluginVersion": "0.1.0.1",
+  "SupportedDriverVersion": "0.6.6.2",
+  "RepositoryUrl": "https://github.com/guydudemanperson1/OpenTabletDriver.HawkuScroll",
+  "DownloadUrl": "https://github.com/guydudemanperson1/OpenTabletDriver.HawkuScroll/releases/download/0.1.0.1/OpenTabletDriver.HawkuScroll-0.1.0.1.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "6EBF19FD878981E69E6A3025078AA8B858D931B00B5EAABB646157E723448FE3",
+  "WikiUrl": "https://github.com/guydudemanperson1/OpenTabletDriver.HawkuScroll/blob/main/README.md",
+  "LicenseIdentifier": "MIT"
+}
